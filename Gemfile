@@ -13,6 +13,7 @@ gem 'haml', '> 4.0.5'
 gem 'bootstrap-sass', '> 3.2.0.2'
 gem 'simple_form', '> 3.0.2'
 gem 'devise', '> 3.3.0'
+gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sdoc', '~> 0.4.0', group: :doc
 group :development, :test do
   gem 'byebug'
